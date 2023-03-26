@@ -23,7 +23,7 @@ Technology I Used
 Html
 Used to structure my webpages and the bones of any web project
 
-CSS7 Flexbox
+CSS / Flexbox
 Used to style and add layout to my project.
 
 Font Awesome
