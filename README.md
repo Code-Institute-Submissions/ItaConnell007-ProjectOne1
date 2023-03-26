@@ -19,7 +19,8 @@ After the submission, I will include wireframes, my though processess behind eac
 I would possibly include an i-frame from maps.ie to locate the buisness.
 Additionally I would pass this website through more testing through google lighthouse, https://ui.dev/amiresponsive, peers etc.
 
-Technology I Used
+Technology I Used:
+
 Html
 Too structure my webpage and the bones of any web project
 
