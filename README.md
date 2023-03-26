@@ -15,13 +15,13 @@ Then finally the contact section at the bottom
 
 I would love to tweek this website more, but I unfortunately have run out of time for this project.
 
-After the submission, I will include wireframes, my though processess behind each section, I want to work on the reesponsivity of this website as with mobile it needs a little more fine tuning.
+After the submission, I will include wireframes, my though processess behind each section, I want to work on the reesponsivity of this website as with mobile it needs a little more fine tuning. Additionally I could add more pages.
 I would possibly include an i-frame from maps.ie to locate the buisness.
 Additionally I would pass this website through more testing through google lighthouse, https://ui.dev/amiresponsive, peers etc.
 
 Technology I Used
 Html
-Used to structure my webpages and the bones of any web project
+Too structure my webpage and the bones of any web project
 
 CSS / Flexbox
 Used to style and add layout to my project.
