@@ -164,7 +164,7 @@ nav ul li a{
     text-align: left;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #009688;
+    color: #004d96;
 }
 .features-desc{
     display: flex;
@@ -177,7 +177,7 @@ nav ul li a{
     font-size: 30px;
     line-height: 50px;
     border-radius: 8px;
-    color: #009688;
+    color: #004d96;
     border: 1px solid #009688;
 }
 .feature-text p{
