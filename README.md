@@ -1,4 +1,9 @@
-# ProjectOne
+Not Just Hair - Project One for Code Institute 
+
+A website built for a fictional beauty salon. 
+
+<img width="1041" alt="Screenshot 2023-03-30 at 11 35 11" src="https://user-images.githubusercontent.com/104692075/228810221-86db9906-8eed-44fc-b521-87e6e691ef8a.png">
+
 
 I wanted to make a static and responsive website 
 with a gradient colour overlay and banner image
