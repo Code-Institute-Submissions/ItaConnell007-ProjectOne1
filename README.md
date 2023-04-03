@@ -28,6 +28,12 @@ For the hamburger navigation menu, I wanted to inculde each section of the webpa
 <img width="831" alt="Screenshot 2023-03-30 at 17 51 33" src="https://user-images.githubusercontent.com/104692075/228908676-cda84c1a-7383-4b8a-b7d0-2e44f2096dce.png">
 For the services offered page, I included four key service, with a linear gradient overlay to see the description on each picture.
 
+For the testimonials page, I wanted to inculde three different reviews from past customers. Additionally I added a twitter icon to each testimonial.  
+<img width="1275" alt="Screenshot 2023-04-03 at 09 16 44" src="https://user-images.githubusercontent.com/104692075/229451683-cafa232d-8ea2-4de3-8a95-e997c5224ce5.png">
+
+Finally I wanted for the footer of the page, I designed a contact us section. I wanted to display the opening hours, the social media links, and where to find us.
+<img width="1275" alt="Screenshot 2023-04-03 at 09 20 58" src="https://user-images.githubusercontent.com/104692075/229452758-62f8edd1-4bdd-4880-a8c8-fc388c9d769f.png">
+
 
 Technology I Used:
 
